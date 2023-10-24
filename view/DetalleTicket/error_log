@@ -1,0 +1,1 @@
+[19-Jul-2022 09:29:22 America/Bogota] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cmwhcnhg/public_html/novedades/models/Usuario.php:61) in /home/cmwhcnhg/public_html/novedades/models/Usuario.php on line 62
